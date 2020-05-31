@@ -2,7 +2,7 @@
 /* Welcome page */
 
 .welcome{
-    background-image: url("/assign2/images/1.jpg");
+    background-image: url("assign2/images/1.jpg");
 }
 .name{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -36,7 +36,7 @@
 /* Home page */
 
 .home{
-    background-image: url("/assign2/images/bg1.jpg");
+    background-image: url("assign2/images/bg1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -214,13 +214,13 @@
     margin-bottom: 25px;
 }
 .shop{
-    background-image: url("/assign2/images/bg7.jpg");
+    background-image: url("assign2/images/bg7.jpg");
     background-size: cover;
 }
  /* Music page */
 
  .music{
-    background-image: url("/assign2/images/bg5.jpg");
+    background-image: url("assign2/images/bg5.jpg");
     background-size: cover;
 }
 .musimg{
@@ -276,7 +276,7 @@
 /* Art page */
 
 .art{
-    background-image: url("/assign2/images/bg2.jpg");
+    background-image: url("assign2/images/bg2.jpg");
     background-size: cover;
 }
 .headerart{
@@ -344,7 +344,7 @@
     flex-direction: row;
 }
 .movies{
-    background-image: url("/assign2/images/bg4.jpg");
+    background-image: url("assign2/images/bg4.jpg");
     background-size: cover;
 }
 .movimg{
@@ -388,7 +388,7 @@
 /* Literature page */
 
 .lit{
-    background-image: url("/assign2/images/bg6.jpg");
+    background-image: url("assign2/images/bg6.jpg");
     background-size: cover;
 }
 .flexlit{
@@ -444,7 +444,7 @@
 /* Writers page */
 
 .writers{
-    background-image: url("/assign2/images/bg11.jpg");
+    background-image: url("assign2/images/bg11.jpg");
     background-size: cover;
 }
 .flexwri{
@@ -554,6 +554,6 @@
     margin-bottom: 25px;
 }
 .info{
-    background-image: url("/assign2/images/bg10.jpg");
+    background-image: url("assign2/images/bg10.jpg");
     background-size: cover;
 }
