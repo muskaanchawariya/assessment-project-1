@@ -1,0 +1,559 @@
+
+/* Welcome page */
+
+.welcome{
+    background-image: url("/assign2/images/1.jpg");
+}
+.name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    background-color: blanchedalmond;
+    margin-top: 300px;
+    margin-left: 450px;
+    margin-right: 450px;
+    opacity: 0.7;
+    border-radius: 350px;
+}
+.wellink{
+    color: blanchedalmond;
+    text-decoration: none;
+    background-color:black;
+    background-size: initial;
+    padding: 15px 95px;
+    margin-right: 625px;
+    margin-top: 400px;
+    margin-left: 625px;
+}
+.wellink:hover{
+    color: yellow;
+    font-weight: 900;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* Home page */
+
+.home{
+    background-image: url("/assign2/images/bg1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headerhome{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    background-color: blanchedalmond;
+}
+.flex1o1{
+    display: flex;
+    flex-direction: row;
+}
+.flex1o2{
+    display: flex;
+    flex-direction: row;
+}
+
+/* About Us */
+
+.infolink{
+    color: blanchedalmond;
+    text-decoration: none;
+    background-color:black;
+    background-size: initial;
+    padding: 15px 85px;
+    margin-right: 625px;
+    margin-top: 400px;
+    margin-left: 625px;
+}
+.infolink:hover{
+    color: yellow;
+    font-weight: 900;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* Home page cont. */
+
+.homeimg{
+    display: block;
+    width: 250px;
+    height: 200px;
+    background: none;
+    margin-left: 150px;
+    border-radius: 50px;
+    margin-top: 35px;
+    margin-right: 100px;
+}
+.link2{
+    text-decoration: none;
+    color: darkgrey;
+    background-size: initial;
+    background-color: midnightblue;
+    padding: 15px 70px;
+    margin-top: 20px;
+    margin-left: 150px;
+    border-radius: 40px;
+}
+.link3{
+    text-decoration: none;
+    color: darkgrey;
+    background-size: initial;
+    background-color: midnightblue;
+    padding: 15px 95px;
+    margin-top: 20px;
+    margin-left: 150px;
+    border-radius: 40px;
+}
+.link4{
+    text-decoration: none;
+    color: darkgrey;
+    background-size: initial;
+    background-color: midnightblue;
+    padding: 15px 90px;
+    margin-top: 20px;
+    margin-left: 150px;
+    border-radius: 40px;
+}
+.link5{
+    text-decoration: none;
+    color: darkgrey;
+    background-size: initial;
+    background-color: midnightblue;
+    padding: 15px 82px;
+    margin-top: 20px;
+    margin-left: 150px;
+    border-radius: 40px;
+}
+.link7{
+    text-decoration: none;
+    color: darkgrey;
+    background-size: initial;
+    background-color: midnightblue;
+    padding: 15px 105px;
+    margin-top: 20px;
+    margin-left: 150px;
+    border-radius: 40px;
+}
+.link8{
+    text-decoration: none;
+    color: darkgrey;
+    background-size: initial;
+    background-color: midnightblue;
+    padding: 15px 100px;
+    margin-top: 20px;
+    margin-left: 150px;
+    border-radius: 40px;
+}
+.link2:hover{
+    color: mediumvioletred;
+    font-weight: bold;
+}
+.link3:hover{
+    color: mediumvioletred;
+    font-weight: bold;
+}
+.link4:hover{
+    color: mediumvioletred;
+    font-weight: bold;
+}
+.link5:hover{
+    color: mediumvioletred;
+    font-weight: bold;
+}
+.link7:hover{
+    color: mediumvioletred;
+    font-weight: bold;
+}
+.link8:hover{
+    color: mediumvioletred;
+    font-weight: bold;
+}
+
+/* Shop page*/
+
+.headershop{
+    font-family: cursive;
+    font-size: 90px;
+    text-align: center;
+    color: mintcream;
+    font-weight: bolder;
+    background-color: orchid;
+}
+
+/* Home link */
+
+.homelink{
+    color: blanchedalmond;
+    text-decoration: none;
+    background-color:black;
+    background-size: initial;
+    padding: 15px 60px;
+    margin-right: 625px;
+    margin-top: 400px;
+    margin-left: 625px;  
+}
+.homelink:hover{
+    color: yellow;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* Shop page cont. */
+
+.messageshop{
+    color: black;
+    font-size: 150px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+}
+.shop{
+    background-image: url("/assign2/images/bg7.jpg");
+    background-size: cover;
+}
+ /* Music page */
+
+ .music{
+    background-image: url("/assign2/images/bg5.jpg");
+    background-size: cover;
+}
+.musimg{
+    display: block;
+    width: 150px;
+    height: 150px;
+    background: none;
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.headermusic{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 80px;
+    color:olive;
+    font-weight: bolder;
+    background-color:lightgoldenrodyellow;
+    text-align: center;
+}
+.topicmus{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: lightgoldenrodyellow;
+    font-weight: bolder;
+    background-color:olive;
+    text-align: center;
+    margin-top: 10px;
+}
+.flexmusic1{
+    display: flex;
+    flex-direction: column;
+}
+.flexmusic2{
+    display: flex;
+    flex-direction: column;
+}
+.flexmus{
+    display: flex;
+    flex-direction: row;
+}
+.mus{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:olive;
+    background-color: lightgoldenrodyellow;
+    border-radius: 50px;
+    padding: 25px;
+    margin-left: 50px;
+    width: 450px;
+    margin-top: 15px;
+}
+
+/* Art page */
+
+.art{
+    background-image: url("/assign2/images/bg2.jpg");
+    background-size: cover;
+}
+.headerart{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 80px;
+    color: tomato;
+    font-weight: bolder;
+    background-color: yellow;
+    text-align: center;
+}
+.artimg{
+    display: block;
+    width: 150px;
+    height: 150px;
+    background: none;
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.topicart{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: yellow;
+    font-weight: bolder;
+    background-color: tomato;
+    text-align: center;
+    margin-top: 10px;
+}
+.arts{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:tomato;
+    background-color: yellow;
+    border-radius: 50px;
+    padding: 25px;
+    width: 450px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+.flexart1{
+    display: flex;
+    flex-direction: column;
+}
+.flexart2{
+    display: flex;
+    flex-direction: column;
+}
+.flexart{
+    display: flex;
+    flex-direction: row;
+}
+
+/* Movie page */
+
+.headermov{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 80px;
+    color:white;
+    font-weight: bolder;
+    background-color: grey;
+    text-align: center;
+}
+.flexmov{
+    display: flex;
+    flex-direction: row;
+}
+.movies{
+    background-image: url("/assign2/images/bg4.jpg");
+    background-size: cover;
+}
+.movimg{
+    display: block;
+    width: 150px;
+    height: 150px;
+    background: none;
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.topicmov{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: grey;
+    font-weight: bolder;
+    background-color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.mov{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: white;
+    background-color: grey;
+    border-radius: 50px;
+    padding: 25px;
+    width: 450px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+.flexmov1{
+    display: flex;
+    flex-direction: column;
+}
+.flexmov2{
+    display: flex;
+    flex-direction: column;
+}
+
+/* Literature page */
+
+.lit{
+    background-image: url("/assign2/images/bg6.jpg");
+    background-size: cover;
+}
+.flexlit{
+    display: flex;
+    flex-direction: row;
+}
+.headerlit{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 80px;
+    color: yellow;
+    font-weight: bolder;
+    background-color: hotpink;
+    text-align: center;
+}
+.litimg{
+    display: block;
+    width: 150px;
+    height: 150px;
+    background: none;
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.topiclit{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color:hotpink;
+    font-weight: bolder;
+    background-color:yellow;
+    text-align: center;
+    margin-top: 10px;
+}
+.lits{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:yellow;
+    background-color:hotpink;
+    border-radius: 50px;
+    padding: 25px;
+    width: 450px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+.flexlit1{
+    display: flex;
+    flex-direction: column;
+}
+.flexlit2{
+    display: flex;
+    flex-direction: column;
+}
+
+/* Writers page */
+
+.writers{
+    background-image: url("/assign2/images/bg11.jpg");
+    background-size: cover;
+}
+.flexwri{
+    display: flex;
+    flex-direction: row;
+}
+.headerwri{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 80px;
+    color: palevioletred;
+    font-weight: bolder;
+    background-color:lightblue;
+    text-align: center;
+}
+.wriimg{
+    display: block;
+    width: 150px;
+    height: 150px;
+    background: none;
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.topicwri{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: lightblue;
+    font-weight: bolder;
+    background-color: palevioletred;
+    text-align: center;
+    margin-top: 10px;
+}
+.wri{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: palevioletred;
+    background-color: lightblue;
+    border-radius: 50px;
+    padding: 25px;
+    width: 450px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+.flexwri1{
+    display: flex;
+    flex-direction: column;
+}
+.flexwri2{
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* Desc pics */
+
+.pic1{
+    display: flex;
+    flex-direction: row;
+}
+.pic2{
+    display: flex;
+    flex-direction: row;
+}
+.pic3{
+    display: flex;
+    flex-direction: row;
+}
+.pic4{
+    display: flex;
+    flex-direction: row;
+}
+.pic5{
+    display: flex;
+    flex-direction: row;
+}
+.pic6{
+    display: flex;
+    flex-direction: row;
+}
+.pic7{
+    display: flex;
+    flex-direction: row;
+}
+.pic8{
+    display: flex;
+    flex-direction: row;
+}
+
+/* About Us */
+
+.headerinfo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 90px;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    background-color: blanchedalmond;
+}
+.messageinfo{
+    color: black;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+}
+.info{
+    background-image: url("/assign2/images/bg10.jpg");
+    background-size: cover;
+}
